@@ -1,4 +1,4 @@
-# Hi, I'm Mika
+# Hi, I'm Samuel Ambundo
 
 Full-Stack Software Engineer focused on backend systems, security, and practical software engineering.
 
