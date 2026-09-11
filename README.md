@@ -1,37 +1,45 @@
 # Hi, I'm Samuel Ambundo
 
-Full-Stack Software Engineer focused on backend systems, security, and practical software engineering.
+## Full-Stack Software Engineer | Backend & Security-Focused Systems
 
-I build web applications, APIs, and systems-oriented projects while developing deeper expertise in backend engineering and cybersecurity.
+I build web applications, APIs, and systems-oriented software, with a growing focus on backend engineering, secure application development, and system design.
 
-## What I work with
+## Technical Stack
 
+### Languages
 - JavaScript / TypeScript
 - Python
 - Java
+- SQL
+
+### Frontend
 - React
-- Node.js / Express
+- HTML / CSS
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
 - REST APIs
-- SQL / NoSQL databases
+
+### Databases
+- PostgreSQL
+- MongoDB
+
+### Tools & Development
 - Git / GitHub
+- Linux / WSL
+- Postman / insomnia
+- npm
+- docker
+- kubernetes
+- terraform
 
 ## Current Focus
 
 - Backend engineering
 - Secure application development
+- API design and architecture
 - System design
-- API architecture
 - Performance and reliability
-
-## Selected Projects
-
-- Security Index Tracker — security incident management platform
-- JobBuddy — job and mentorship platform
-- FinTrack — financial analytics dashboard
-- Operating System I/O Simulator — systems simulation project
-
-## Connect
-
-[linkedIn]
-[portfolio]
-[theambundo@gmail.com]
+- Cybersecurity
