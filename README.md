@@ -32,6 +32,6 @@ I build web applications, APIs, and systems-oriented projects while developing d
 
 ## Connect
 
-[]
-[]
+[linkedIn]
+[portfolio]
 [theambundo@gmail.com]
